@@ -6,11 +6,11 @@ import requests
 
 print ('################################################################')
 
-print ('# Site Seks')
+print ('# Lwa Site Tarayıcı')
 
 print ('# by ArifReis')
 
-print ('# Thanks Deney45,Ayberk')
+print ('# Thanks Lwa Team')
 
 print ('# https://github.com/Arftaklaci/ArifReisExpo')
 
