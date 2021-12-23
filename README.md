@@ -12,3 +12,4 @@
   * `git clone https://github.com/arftaklaci/LwaExpo`
   * `cd lwaexpo/`
   * `python exploit.py`
+*-termux yakında-*
